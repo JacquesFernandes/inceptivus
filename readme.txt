@@ -1,8 +1,13 @@
 Hello there!
 
-This is the repo for the Mega Event...
+This is the Bit Bucket repo for the Mega Event...
 
 Devs: Jacques, Nischal, Siddhant
+We are going to get this thing off the ground!
+
+To-Do:
+- Replace Mitesh's game
+- Consider making it more mobile friendly (since there is no iframe this time :P )
 
 Remember... 
 - add
